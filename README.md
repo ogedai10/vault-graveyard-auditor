@@ -2,6 +2,8 @@
 
 **Find out how much of your note vault is actually dead.**
 
+![demo](demo.gif)
+
 Most "second brains" are graveyards. You clip articles, save threads, dump transcripts, and
 none of it ever turns into a thought of your own. It looks productive. It does nothing.
 
