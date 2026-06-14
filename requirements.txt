@@ -1,0 +1,3 @@
+# Core needs nothing (stdlib only).
+# Optional: only for the --llm flag.
+anthropic>=0.40
